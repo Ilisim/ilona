@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mano naujas puslapis</title>
+    
+    
+    
+    <link>https://ilisim.github.io/</link>
+    <description>Recent content on Mano naujas puslapis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Jan 2023 19:44:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://ilisim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mano Antras Puslapis</title>
+      <link>https://ilisim.github.io/posts/mano-antras-puslapis/</link>
+      <pubDate>Tue, 31 Jan 2023 19:44:40 +0200</pubDate>
+      
+      <guid>https://ilisim.github.io/posts/mano-antras-puslapis/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://ilisim.github.io/posts/mano-antras-puslapis/image.PNG&#34;/&gt;
+          
+        
+        
+        
+          lab laba
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Mano Pirmas Puslapis</title>
+      <link>https://ilisim.github.io/posts/mano-pirmas-puslapis/</link>
+      <pubDate>Tue, 31 Jan 2023 19:44:31 +0200</pubDate>
+      
+      <guid>https://ilisim.github.io/posts/mano-pirmas-puslapis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          naujas puslapis Laboratoriniui darbui.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
